@@ -19,7 +19,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color:rgb(82, 100, 148;
+  background-color:rgb(82, 100, 148);
 }
 .flex-container {
   display: flex;
@@ -44,14 +44,14 @@ ul li a:hover {
 
 }
 #discover{
-    color: #0b1935; 
+  color: #0b1935; 
     font-style: normal;
     font-size: large;
     background-color: #313e6b;
     border: #313e6b;
-    border-block-start:
-    
-}
+    border-block-start:  
+  }
+
 
 .flex-item{
     color: #020638;
@@ -61,5 +61,13 @@ ul li a:hover {
     text-align: center;
 }
 p{
-    font-size: x-small;
+    font-size: large;
+}
+.lists{
+   color:  #020638;
+   font-size: small;
+   padding: 10px 20px 10px;
+}
+#logo {
+ 
 }
