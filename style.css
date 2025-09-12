@@ -49,7 +49,7 @@ ul li a:hover {
     background-color: #6be5ee;
     border: #313e6b;
     border-block-start:  
-  }
+}
 
 .flex-item{
     color: #020638;
@@ -74,4 +74,19 @@ p{
   align-content: center;
   color: #020638;
   
+}
+.flex-container2{
+   display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(215, 241, 236);
+  margin: auto;
+
+}
+#picture{
+   height: 400px;
+    width: 400px;
+    border-color: #3f65e4;
+    border-style: none;
+    border-radius: 200px;
+    padding: 120px 100px 0px 100px;
 }
